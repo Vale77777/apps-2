@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#app {
+    background-color: cornflowerblue;
+}
+#juegos {
+    background-color: rgb(240, 132, 65);
+}
+#chatbot {
+    background-color: lightgreen;
+}
+.line {
+    height: 6px;
+    background-color: #ba4cee;
+    width: 70px;
+    margin: 8px auto;
+}
+body {
+    text-align: center;
+}
+#app{
+    background-color: hotpink;
+}
+#myCarrousel{
+    background-color: mediumpurple;
+}
+#myCarrousel img
+{
+height: 300px;
+margin-top: 35px;
+}
+.carrousel-inner p
+{
+margin-top: 15px;
+color: beige;
+font-size: 20px;
+}
